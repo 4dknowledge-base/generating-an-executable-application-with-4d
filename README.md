@@ -9,4 +9,6 @@ A clear theoretical part is followed by a complete demonstration.
 
 The following materials are available for download:
 
-- [test materiel](http://local-learn.4d.com/wp-content/uploads/2026/02/sample-2-1.pdf)
+- <a href="https://4dfr-formation-pub.s3.eu-west-3.amazonaws.com/learnpress/materials/2026/02/sample__2_.pdf" target="_blank">testfiles3</a>
+- <a href="https://4dfr-formation-pub.s3.eu-west-3.amazonaws.com/learnpress/materials/2026/02/sample--3.pdf" target="_blank">tests3</a>
+- <a href="http://local-learn.4d.com/wp-content/uploads/2026/02/sample-2-1.pdf" target="_blank">test materiel</a>
